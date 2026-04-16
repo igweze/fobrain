@@ -154,7 +154,7 @@ For comprehensive, step-by-step instructions on installation and configuration, 
 For a live demo, visit - https://www.demo.fobrain.com 
 
 # Contributors 
-We invite passionate contributors and partners to join us in the exciting journey of the foBrain AI project! Together, let's innovate and make a lasting impact!
+We invite passionate contributors and partners to join us in the exciting journey of the foBrain AI project! Together, let's innovate and make a lasting impact!. To get started, fork the repository and submit a pull request.
 
 # Donate & Support
 We invite you to visit www.fobrain.com to learn about our project and consider supporting us. Your contributions are greatly appreciated.
