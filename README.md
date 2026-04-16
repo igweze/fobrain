@@ -112,6 +112,18 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 
 ![Screenshot.](screenshot/7.png)
 
+<br />
+
+![Screenshot.](screenshot/8.png)
+
+<br />
+
+![Screenshot.](screenshot/9.png)
+
+<br />
+
+![Screenshot.](screenshot/10.png)
+
 <br /><br />
 
 # Installation Notes
