@@ -20,9 +20,9 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 
 </div>
 <br /><br />
-![Screenshot.](screenshot/1.png) 
-<br /><br />
+![Screenshot.](screenshot/1.png)
 
+<br /><br />
 <div align="center" dir="auto">
 	<a href="https://www.docs.fobrain.com" target="_blank" rel="nofollow">Website</a>
 	-
