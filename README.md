@@ -1,6 +1,6 @@
 <div align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer"  href="/screenshot/logo.png">
-        <img src="/screenshot/logo.png"  alt="foBrain AI Logo" width="80" style="max-width: 100%;">
+        <img src="/screenshot/logo.png"  alt="foBrain AI Logo" style="max-width: 100%;">
     </a>
 </div>
 
