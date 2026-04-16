@@ -1,27 +1,46 @@
-# fobrain School Manager
+<div align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer"  href="/screenshot/logo.png">
+        <img src="/screenshot/logo.png"  alt="foBrain AI Logo" width="80" style="max-width: 100%;">
+    </a>
+</div>
 
-<b>fobrain</b> formerly <b>wizGrade</b> is a PHP School Management System for K-12 School ( Nursery, Primary and Secondary). 
+#foBrain AI School Manager
 
-It's a complete, robust and flexible solution for school management and administration.
+<hr>
 
-<p>It requires PHP Version greater than <b>7</b> or below <b>8.3.11</b></p>
 
-For more features, stable and upgraded code version kindly use <b>fobrain PRO version</b> @ https://www.fobrain.com
- 
-<b>fobrain</b> is designed, developed and maintain by <b>Igweze Ebele Mark</b> and is released under the Apache License 2.0 
+Monitor, run, automate, manage, and engage with your students, parents, staff effectively from any location.
 
-<b>fobrain</b> Universities, Polytechnics, College of Educations, Awarding Institute e.t.c. version is offline @ the moment but will be online soon!. 
+<hr>
+<div align="justify" dir="auto">
+    foBrain AI is an open source school management system that offers a comprehensive, robust, highly secure, and flexible AI-powered solution for managing K-12 schools (Nursery, Primary, and Secondary). foBrain has more than 100 unique and amazing features, along with 8 fabulous and unique dashboards that have different privileges assigned.
+</div>    
+<div align="justify" dir="auto">
+    foBrain AI is designed, developed and maintain by Igweze Ebele Mark and is released under the Apache License 2.0
 
-<h1 style="color:#551A8B !important;">Live Demo</h1>
-For a live demo visit - https://www.demo.fobrain.com
+</div>
 
-<h1 style="color:#551A8B">Some fobrain Features</h1> 
+![Screenshot.](screenshot/1.png) 
+
+<div align="center" dir="auto">
+	<a href="https://www.docs.fobrain.com" target="_blank" rel="nofollow">Website</a>
+	-
+	<a href="https://www.docs.fobrain.com" target="_blank" rel="nofollow">Documentation</a>
+</div>
+
+
+#Some fobrain Features
 
 <ol> 
 <li>100% web, mobile, tablet responsive screen & fobrain Themes</li>
 <li>Unlimited students, staffs and courses</li>
 <li>Combined K12 (Nursery, Primary & Secondary) School module</li>
 <li>More than 100+ language translation</li>
+<li>Live Virtual Class & Meetings</li>
+<li>School Accounting Management</li>
+<li>Graded CBT Exam & Homework</li>
+<li>AI Auto. Transcript & Ranking</li>
+<li>Daily Attendance & Comments (QR Attendance & Parents Reply)</li>
 <li>School Staffs and Students HR Manager</li>
 <li>Student & Staff ID card generation</li>
 <li>Automated computation of student's grades</li>
@@ -57,25 +76,3 @@ For a live demo visit - https://www.demo.fobrain.com
 <li>Customizable Student Grades</li>
 <li>fobrain Other Amazing Features</li>
 </ol>  
-
-<h1 style="color:#551A8B !important;">Screen Shoots</h1>
-
- 
-![Screenshot.](screenshot/1.png)
-
-
-<h1 style="color:#551A8B !important;">Installation Note</h1>
-<ol>
-<li>Download fobrain School Manager</li>
-<li>Unzip the files in your root domain or local host folder</li>
-<li>Enter your root address in the browser</li>
-<li>It will automatically prompt you for installation</li>
-<li> Kindly follow installation steps. Note: You have to manually create your database & input  it in the required field/input</li>
-<li>After successful installation, login as admin to customize fobrain</li>
-</ol>
-
-       
- 
-
-<h1 style="color:#551A8B !important;">Website</h1>
-https://www.fobrain.com
