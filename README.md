@@ -143,9 +143,7 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 <li>It will automatically prompt you for installation</li>
 <li> Exciting news! Get ready to dive into the installation process. Just a heads-up: you'll need to create your own database and enter it in the designated field. Let’s get started!</li>
 <li>Once you’ve completed the installation, dive right in by logging in as the admin! You can personalize and tailor the foBrain School Manager to fit your needs. Let’s get started!</li>
-</ol>
-
-<br />
+</ol> 
 
 For comprehensive, step-by-step instructions on installation and configuration, please visit - [https://www.docs.fobrain.com](https://www.docs.fobrain.com)
 
