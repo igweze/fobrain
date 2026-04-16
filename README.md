@@ -16,7 +16,8 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 
  # Developer
 <div align="justify" dir="auto">
-    foBrain AI is designed, developed, and maintained by Igweze Ebele Mark and is released under the Apache License 2.0
+	
+    foBrain AI is designed, and developed by Igweze Ebele Mark and is released under the Apache License 2.0
 
 </div> 
 
@@ -37,10 +38,10 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 <li>Responsive web, mobile, tablet screen</li>
 <li>Unlimited students, staffs and courses</li>
 <li>Combined K12 (Nursery, Primary & Secondary) School module</li>
-<li>Multi-Users Dashboard (School Admin/Receptionist, students, parents, staff, bursary, librarian, HM, class manager, etc dashboards)</li>
+<li>8 Multi-Users Dashboard (School Admin/Receptionist, students, parents, staff, bursary, librarian, HM, class manager, etc dashboards)</li>
 <li>Support more than 100+ language</li>
 <li>Live Virtual Class & Meetings (Google Meet, Zoom, Mircosoft Team and Video SDK)</li>
-<li>Online Course Management (LSM)</li>
+<li>Learning Management System (LMS)</li>
 <li>Complete School Accounting Management</li>
 <li>Graded CBT Exam & Homework</li>
 <li>AI Auto. Transcript & Ranking</li>
