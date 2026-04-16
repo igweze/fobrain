@@ -4,14 +4,12 @@
     </a>
 </div>
 
-#foBrain AI School Manager
-
-<hr>
+# foBrain AI School Manager 
 
 
 Monitor, run, automate, manage, and engage with your students, parents, staff effectively from any location.
 
-<hr>
+ # About
 <div align="justify" dir="auto">
     foBrain AI is an open source school management system that offers a comprehensive, robust, highly secure, and flexible AI-powered solution for managing K-12 schools (Nursery, Primary, and Secondary). foBrain has more than 100 unique and amazing features, along with 8 fabulous and unique dashboards that have different privileges assigned.
 </div>    
@@ -29,7 +27,7 @@ Monitor, run, automate, manage, and engage with your students, parents, staff ef
 </div>
 
 
-#Some fobrain Features
+# Some fobrain Features
 
 <ol> 
 <li>100% web, mobile, tablet responsive screen & fobrain Themes</li>
