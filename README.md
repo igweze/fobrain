@@ -7,14 +7,16 @@
 # foBrain AI School Manager 
 
 
-Monitor, run, automate, manage, and engage with your students, parents, staff effectively from any location.
+Monitor, run, automate, manage, and engage with your students, parents, and staff effectively from any location.
 
  # About
 <div align="justify" dir="auto">
     foBrain AI is an open source school management system that offers a comprehensive, robust, highly secure, and flexible AI-powered solution for managing K-12 schools (Nursery, Primary, and Secondary). foBrain has more than 100 unique and amazing features, along with 8 fabulous and unique dashboards that have different privileges assigned.
 </div>    
+
+ # Developer
 <div align="justify" dir="auto">
-    foBrain AI is designed, developed and maintain by Igweze Ebele Mark and is released under the Apache License 2.0
+    foBrain AI is designed, developed, and maintained by Igweze Ebele Mark and is released under the Apache License 2.0
 
 </div>
 
