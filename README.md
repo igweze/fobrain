@@ -134,8 +134,23 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 > [!IMPORTANT]
 > <p>It requires PHP Version greater than <b>7</b> or below <b>8.3.11</b></p>
 
-# App Documentation & Installation 
-Visit - [https://www.docs.fobrain.com](https://www.docs.fobrain.com)
+# Installation & Documentation
+
+<ol>
+<li>Clone the repository or download the project </li>
+<li>Navigate to the project directory or unzip the files in your root domain/local host folder</li>
+<li>Enter your project root address in the browser</li>
+<li>It will automatically prompt you for installation</li>
+<li> Exciting news! Get ready to dive into the installation process. Just a heads-up: you'll need to create your own database and enter it in the designated field. Let’s get started!</li>
+<li>Once you’ve completed the installation, dive right in by logging in as the admin! You can personalize and tailor the foBrain School Manager to fit your needs. Let’s get started!</li>
+</ol>
+
+<br />
+
+For comprehensive, step-by-step instructions on installation and configuration, please visit - [https://www.docs.fobrain.com](https://www.docs.fobrain.com)
+
+> [!TIP]
+> Installation process take <b>1 to 4 minutes</b> depending on your system and server configurations.
 
 # Live Demo 
 For a live demo, visit - https://www.demo.fobrain.com 
