@@ -83,21 +83,35 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 <li>& many other Amazing Features . . . .</li>
 </ol>  
 
-#Some Screenshots  
+# Some Screenshots  
 
 ![Screenshot.](screenshot/1.png)
 
+<br />
+
 ![Screenshot.](screenshot/2.png)
+
+<br />
 
 ![Screenshot.](screenshot/3.png)
 
+<br />
+
 ![Screenshot.](screenshot/4.png)
+
+<br />
 
 ![Screenshot.](screenshot/5.png)
 
+<br />
+
 ![Screenshot.](screenshot/6.png)
 
+<br />
+
 ![Screenshot.](screenshot/7.png)
+
+<br /><br />
 
 # Installation Notes
 > [!IMPORTANT]
