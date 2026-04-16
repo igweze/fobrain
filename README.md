@@ -135,7 +135,7 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 > <p>It requires PHP Version greater than <b>7</b> or below <b>8.3.11</b></p>
 
 # App Documentation & Installation 
-Visit - [https://www.demo.fobrain.com](https://www.docs.fobrain.com)
+Visit - [https://www.docs.fobrain.com](https://www.docs.fobrain.com)
 
 # Live Demo 
 For a live demo, visit - https://www.demo.fobrain.com 
