@@ -18,13 +18,10 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 <div align="justify" dir="auto">
     foBrain AI is designed, developed, and maintained by Igweze Ebele Mark and is released under the Apache License 2.0
 
-</div>
-<br /><br />
-
-
-![Screenshot.](screenshot/1.png)
+</div> 
 
 <br /><br />
+
 <div align="center" dir="auto">
 	<a href="https://www.docs.fobrain.com" target="_blank" rel="nofollow">Website</a>
 	-
@@ -85,6 +82,22 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 <li>Customizable Student Grades</li>
 <li>& many other Amazing Features . . . .</li>
 </ol>  
+
+#Some Screenshots  
+
+![Screenshot.](screenshot/1.png)
+
+![Screenshot.](screenshot/2.png)
+
+![Screenshot.](screenshot/3.png)
+
+![Screenshot.](screenshot/4.png)
+
+![Screenshot.](screenshot/5.png)
+
+![Screenshot.](screenshot/6.png)
+
+![Screenshot.](screenshot/7.png)
 
 # Installation Notes
 > [!IMPORTANT]
