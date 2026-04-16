@@ -19,17 +19,20 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
     foBrain AI is designed, developed, and maintained by Igweze Ebele Mark and is released under the Apache License 2.0
 
 </div>
-
+<br /><br />
 ![Screenshot.](screenshot/1.png) 
+<br /><br />
 
 <div align="center" dir="auto">
 	<a href="https://www.docs.fobrain.com" target="_blank" rel="nofollow">Website</a>
 	-
 	<a href="https://www.docs.fobrain.com" target="_blank" rel="nofollow">Documentation</a>
+	-
+	<a href="https://www.demo.fobrain.com" target="_blank" rel="nofollow">Live Demo</a>
 </div>
 
 
-# Some fobrain Features
+# Key Features
 
 <ol> 
 <li>100% web, mobile, tablet responsive screen & fobrain Themes</li>
