@@ -60,7 +60,9 @@ For a live demo visit - https://www.demo.fobrain.com
 
 <h1 style="color:#551A8B !important;">Screen Shoots</h1>
 
-<li><img scr="https://www.fobrain.com/images/slide/1.png" alt="fobrain Shots" /></li> 
+<li>
+ ![Screenshot.](https://www.fobrain.com/images/slide/1.png)
+</li> 
 
 
 <h1 style="color:#551A8B !important;">Installation Note</h1>
