@@ -32,7 +32,7 @@ Automate, monitor, run, manage, and engage with your students, parents, and staf
    <b>foBrain AI School Manager</b> has undergone numerous changes and enhancements over the past <b>16 years, evolving from Student Oracle, SDOSMS, and wizGrade to its current form as FoBrain AI</b>.
 </div>
 
- # Our mission
+ # Mission
 <div align="justify" dir="auto">	
     Our mission is to break down barriers in education by delivering a free, powerful, and community-driven school management solution. We aim to empower schools and institutions around the globe to unlock their full potential and create transformative learning experiences for every student.
 </div> 
