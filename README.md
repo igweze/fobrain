@@ -7,6 +7,20 @@
 # foBrain AI School Manager 
 Automate, monitor, run, manage, and engage with your students, parents, and staff effectively from any location.
 
+![Screenshot.](screenshot/4.png)
+
+<br /> 
+
+<div align="center" dir="auto">
+	<a href="https://www.fobrain.com" target="_blank" rel="nofollow">Website</a>
+	-
+	<a href="https://www.docs.fobrain.com" target="_blank" rel="nofollow">Documentation</a>
+	-
+	<a href="https://www.demo.fobrain.com" target="_blank" rel="nofollow">Live Demo</a>
+</div>
+
+<br /> 
+
  # About
 <div align="justify" dir="auto">
    <b>foBrain AI</b> is an open source school management system that offers a comprehensive, robust, highly secure, and flexible AI-powered solution for managing K-12 schools (Nursery, Primary, and Secondary). foBrain has more than 100 unique and amazing features, along with 8 fabulous and unique dashboards that have different privileges assigned.
@@ -26,18 +40,7 @@ Automate, monitor, run, manage, and engage with your students, parents, and staf
  # Developer
 <div align="justify" dir="auto">	
     <b>foBrain AI</b> is designed and developed by <b>Igweze Ebele Mark</b> and is released under the <b>Apache License 2.0</b>
-</div> 
-
-<br /> 
-
-<div align="center" dir="auto">
-	<a href="https://www.docs.fobrain.com" target="_blank" rel="nofollow">Website</a>
-	-
-	<a href="https://www.docs.fobrain.com" target="_blank" rel="nofollow">Documentation</a>
-	-
-	<a href="https://www.demo.fobrain.com" target="_blank" rel="nofollow">Live Demo</a>
-</div>
-
+</div>  
 
 # Key Features
 
@@ -104,11 +107,6 @@ Automate, monitor, run, manage, and engage with your students, parents, and staf
 
 ## Live Virtual Class with virtual classroom board
 ![Screenshot.](screenshot/3.png)
-
-<br />
-
-## School population breakdown
-![Screenshot.](screenshot/4.png)
 
 <br />
 
