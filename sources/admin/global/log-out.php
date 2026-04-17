@@ -1,0 +1,62 @@
+<?php
+
+/* 
+	------------------------------------------------------------------------	  
+	Copyright (C) foBrain Tech LTD (Igweze Ebele Mark) 2010 - 2026.
+
+	Licensed under the Apache License, Version 2.0 (the 'License');
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+
+	http://www.apache.org/licenses/LICENSE-2.0
+
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an 'AS IS' BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License		 
+	------------------------------------------------------------------------ 
+	foBrain Open Source & wizGrade Open Source App is designed & developed 
+	by Igweze Ebele Mark for foBrain Tech LTD
+
+	foBrain School App is Dedicated To Almighty God, My Amazing Parents, 
+	To My Fabulous and Supporting Wife Nkiruka J.
+	To My Inestimable Kids Osinachi, Ifechukwu, Naetochukwu & Chimamanda.  
+	------------------------------------------------------------------------
+	WEBSITE 					PHONES/WHATSAPP			EMAILS
+	https://www.fobrain.com		+234 - 80 30 716 751  	igweze@fobrain.com	 
+	https://www.fobrain.ng		+234 - 80 22 000 490	support@fobrain.com 
+	------------------------------------------------------------------------
+	
+	
+	-------- Script Description --------
+	This script handle users logout
+	------------------------------------------------------------------------*/  	 
+
+if(!session_id()){
+    session_start();
+}
+
+		if (!defined('fobrain')) /* This checks if this page was wrongly access by users */
+
+		die('Hahahaha, Hacking attempt . . . . Be Careful . . . . You Are Been Warned !!!!');
+		
+        //require_once '../sources/functions/fobrain-dir.php';  /* include configuration script */  
+		error_reporting(0);
+		 
+		$_SESSION = array();
+
+		if (ini_get("session.use_cookies")) {
+    		$params = session_get_cookie_params();
+    		setcookie(session_name(), '', time() - 42000,
+        		$params["path"], $params["domain"],
+        		$params["secure"], $params["httponly"]
+    		);
+		}
+
+		session_unset();	
+		session_destroy();
+		//echo "<script type='text/javascript'> parent.location.reload(); </script>";//exit;  
+	echo "<script type='text/javascript'> window.location.href = '$fobrainPortalRoot'; </script>";exit;
+
+?> 
