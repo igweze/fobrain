@@ -5,9 +5,7 @@
 </div>
 
 # foBrain AI School Manager 
-
-
-Monitor, run, automate, manage, and engage with your students, parents, and staff effectively from any location.
+Automate, monitor, run, manage, and engage with your students, parents, and staff effectively from any location.
 
  # About
 <div align="justify" dir="auto">
@@ -17,8 +15,13 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 <br /> 
 
 <div align="justify" dir="auto">
-   <b>foBrain AI School Manager</b> has undergone numerous changes and enhancements over the past 16 years, evolving from Student Oracle, SDOSMS, and wizGrade to its current form as FoBrain AI.
+   <b>foBrain AI School Manager</b> has undergone numerous changes and enhancements over the past <b>16 years, evolving from Student Oracle, SDOSMS, and wizGrade to its current form as FoBrain AI</b>.
 </div>
+
+ # Our mission
+<div align="justify" dir="auto">	
+    Our mission is to break down barriers in education by delivering a free, powerful, and community-driven school management solution. We aim to empower schools and institutions around the globe to unlock their full potential and create transformative learning experiences for every student.
+</div> 
 
  # Developer
 <div align="justify" dir="auto">	
@@ -39,24 +42,24 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 # Key Features
 
 <ol> 
-<li>Responsive web, mobile, tablet screen</li>
+<li>Responsive (UI) web, mobile, tablet screen</li>
 <li>Unlimited students, staffs and courses</li>
 <li>Combined K12 (Nursery, Primary & Secondary) School module</li>
 <li>8 Multi-Users Dashboard (School Admin/Receptionist, students, parents, staff, bursary, librarian, HM, class manager, etc dashboards)</li>
 <li>Support more than 100+ language</li>
-<li>Live Virtual Class & Meetings (Google Meet, Zoom, Mircosoft Team and Video SDK)</li>
+<li>Live Virtual Class & Meetings (Google Meet, Zoom, Microsoft Teams, and Video SDK)</li>
 <li>Learning Management System (LMS)</li>
 <li>Complete School Accounting Management</li>
-<li>Graded CBT Exam & Homework</li>
+<li>Graded CBT Exam & Homework (with Excel bulk Q & A uploads)</li>
 <li>AI Auto. Transcript & Ranking</li>
-<li>Daily Attendance & Comments (QR Attendance & Parents Reply)</li>
+<li>Daily Attendance & Comments, QR Attendance & Parents Reply</li>
 <li>Complete School library module</li>
-<li>Complete school e – shop (Ecommerce) </li>
+<li>Complete school e–shop (E-commerce) </li>
 <li>Bulk Result & Registration Upload (Using Excel)</li>
 <li>School Staffs and Students HR Manager</li>
 <li>Staff Payroll & Leave</li>
-<li>Course Teacher result upload, online courses, live classes, cbt etc management</li>
-<li>Student & Staff ID card generation (QR Code Embeded)</li>
+<li>Management of course teacher results, online courses, live classes, and CBT, among others.</li>
+<li>Student & Staff ID card generation (QR Code Embedded)</li>
 <li>Automated computation of student's grades</li>
 <li>Automated subjects and class ranking</li> 
 <li>Automated class promotion module</li> 
@@ -69,8 +72,8 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 <li>Scratch Card Generation</li> 
 <li>Parent's Multi-Child Selector</li>
 <li>School population breakdown module</li>
-<li>Broadcast SMS to student / parent / staffs etc</li>
-<li>Broadcast result to parent / guardian phone</li> 
+<li>Broadcast SMS to student/parent/staff, etc. </li>
+<li>Broadcast result to parent/guardian phone</li> 
 <li>Robust school records and results search engine</li> 
 <li>Graphical representation of student results & records</li>
 <li>Best student module</li>
@@ -89,52 +92,60 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 </ol>  
 
 # Some Screenshots  
-
+## School bursary dashboard
 ![Screenshot.](screenshot/1.png)
 
 <br />
-
+ 
+## Live Virtual Class with  Video SDK
 ![Screenshot.](screenshot/2.png)
 
 <br />
 
+## Live Virtual Class with virtual classroom board
 ![Screenshot.](screenshot/3.png)
 
 <br />
 
+## School population breakdown
 ![Screenshot.](screenshot/4.png)
 
 <br />
 
+## Student Computation Result Mode
 ![Screenshot.](screenshot/5.png)
 
 <br />
 
+## Class Annual Result with Ranking & Promotion Status
 ![Screenshot.](screenshot/6.png)
 
 <br />
 
+## Graded CBT Exam
 ![Screenshot.](screenshot/7.png)
 
 <br />
 
+## Learning Management System (LMS)
 ![Screenshot.](screenshot/8.png)
 
 <br />
 
+## School e–shop (E-commerce)
 ![Screenshot.](screenshot/9.png)
 
 <br />
 
+## Daily Attendance & Comments with QR Code Scanning
 ![Screenshot.](screenshot/10.png)
 
 <br /><br />
 
-# Installation Notes
+# Installation & Documentation
+
 > [!IMPORTANT]
 > <p>It requires PHP Version greater than <b>7</b> or below <b>8.3.11</b></p>
-
-# Installation & Documentation
 
 <ol>
 <li>Clone the repository or download the project </li>
@@ -147,7 +158,7 @@ Monitor, run, automate, manage, and engage with your students, parents, and staf
 
 For comprehensive, step-by-step instructions on installation and configuration, please visit - [https://www.docs.fobrain.com](https://www.docs.fobrain.com)
 
-> [!TIP]
+> [!NOTE]
 > Installation process take <b>1 to 4 minutes</b> depending on your system and server configurations.
 
 # Live Demo 
@@ -158,3 +169,6 @@ We invite passionate contributors and partners to join us in the exciting journe
 
 # Donate & Support
 We invite you to visit www.fobrain.com to learn about our project and consider supporting us. Your contributions are greatly appreciated.
+
+# Website
+https://www.fobrain.com
