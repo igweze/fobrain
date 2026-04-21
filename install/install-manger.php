@@ -337,8 +337,8 @@ $fobrainInfo = "<?php \n\n
                                 `rank` tinyint(3) DEFAULT NULL,
                                 `level` enum('N','J','S') NOT NULL DEFAULT 'N',
                                 `t_grade` enum('0','1','2','3','4','5','6') DEFAULT '0',
-                                `recov_info` varchar(100) NOT NULL,
-                                `recov_time` int(15) NOT NULL,
+                                `recov_info` varchar(100) NULL,
+                                `recov_time` int(15) NULL,
                                 `status` enum('0','1','2','3') NOT NULL DEFAULT '1'
                                 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;";
                         
