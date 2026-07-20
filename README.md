@@ -154,10 +154,11 @@ Automate, monitor, run, manage, and engage with your students, parents, and staf
 <li>Once you’ve completed the installation, dive right in by logging in as the admin! You can personalize and tailor the foBrain School Manager to fit your needs. Let’s get started!</li>
 </ol> 
 
-For comprehensive, step-by-step instructions on installation and configuration, please visit - [https://www.docs.fobrain.com](https://www.docs.fobrain.com)
-
 > [!NOTE]
 > Installation process take <b>1 to 4 minutes</b> depending on your system and server configurations.
+
+## Step-by-step Instructions on Installation & Configuration
+For comprehensive, step-by-step instructions on installation and configuration, please visit - [https://www.docs.fobrain.com](https://www.docs.fobrain.com)
 
 # Live Demo 
 For a live demo, visit - https://www.demo.fobrain.com 
