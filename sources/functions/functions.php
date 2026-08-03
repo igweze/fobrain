@@ -9787,15 +9787,21 @@ IGWEZE;
 				
 			}elseif($gType == $seVal){
 				 
-				$response = file_get_contents('https://www.bulksmsnigeria.com/api/v1/sms/create?api_token='.
-				$api.'&from='.$senderID.'&to='.$receiver.'&body='.$sentMsg);
+				/* file_get_contents function is flagged as risk or vulnerable by cpgurad etc */
+
+				//$response = file_get_contents('https://www.bulksmsnigeria.com/api/v1/sms/create?api_token='.
+				//$api.'&from='.$senderID.'&to='.$receiver.'&body='.$sentMsg);
+				$response = "";
 				
 				
 			}elseif($gType == $thVal){ 
 
-				$response = file_get_contents('https://smsclone.com/api/sms/sendsms?username='.$user.'& password='.
-				$password.'&sender=@@'.$senderID.'@@&recipient=@@'.$receiver.'@@&message=@@'.$sentMsg.'@@');
-				
+				/* file_get_contents function is flagged as risk or vulnerable by cpgurad etc */
+
+				//$response = file_get_contents('https://smsclone.com/api/sms/sendsms?username='.$user.'& password='.
+				//$password.'&sender=@@'.$senderID.'@@&recipient=@@'.$receiver.'@@&message=@@'.$sentMsg.'@@');
+				$response = "";
+
 			}else{
 
 				$response = "";
@@ -9814,16 +9820,23 @@ IGWEZE;
 
 			if($gType == $fiVal){
 				
-				$smsBalance = file_get_contents('https://api.1s2u.io/checkbalance?user='.$user.'&pass='.$password); 
+				/* file_get_contents function is flagged as risk or vulnerable by cpgurad etc */
+
+				//$smsBalance = file_get_contents('https://api.1s2u.io/checkbalance?user='.$user.'&pass='.$password); 
+				$smsBalance = "";
 				
 			}elseif($gType == $seVal){
 				
+				/* file_get_contents function is flagged as risk or vulnerable by cpgurad etc */
+
 				//$smsBalance = file_get_contents('http://www.bulksmsnigeria.net/components/com_spc/smsapi.php?username='.$user.'&password='.$password.'&balance=true&'); 
-				
+				$smsBalance = "";
+
 			}elseif($gType == $thVal){
 				
-				$smsBalance = file_get_contents('https://smsclone.com/api/sms/balance?username='.$user.'&password='.$password.'&balance=true'); 
-				
+				/* file_get_contents function is flagged as risk or vulnerable by cpgurad etc */
+				//$smsBalance = file_get_contents('https://smsclone.com/api/sms/balance?username='.$user.'&password='.$password.'&balance=true'); 
+				$smsBalance = "";
 			}else{
 				
 				$smsBalance = "";
