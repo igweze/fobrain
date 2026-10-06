@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> <p><b> foBrain AI is under some UPDATES NOW </b></p>
+> <p><b> foBrain AI is under some important UPDATES NOW. We will notify you once we are done. </b></p>
 
 <div align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer"  href="/screenshot/logo.png">
