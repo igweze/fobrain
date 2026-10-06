@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> <p><b> foBrain AI is under some UPDATES NOW </b></p>
+
 <div align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer"  href="/screenshot/logo.png">
         <img src="/screenshot/logo.png"  alt="foBrain AI Logo" style="max-width: 100%;">
