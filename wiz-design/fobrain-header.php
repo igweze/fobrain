@@ -59,6 +59,9 @@
 		.goog-logo-link{display: none !important;}
 		.goog-te-gadget{height: 28px !important;  overflow: hidden;}
 	</style>
+
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4279035828409734"
+     crossorigin="anonymous"></script>
 	
 	<script type="text/javascript">
 		function googleTranslateElementInit() {			
